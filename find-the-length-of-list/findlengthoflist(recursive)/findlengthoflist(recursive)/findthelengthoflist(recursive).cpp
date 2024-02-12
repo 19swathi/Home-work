@@ -6,7 +6,6 @@ Recursive Call: The function should make a recursive call to itself with the nex
 Counting Nodes: For each recursive call, increment a counter to keep track of the number of nodes encountered.
 
 Return Length: Once the base case is reached and the recursion unwinds, return the accumulated count of nodes.
-
 Termination Conditions:
 ----------------------
 The termination condition in the recursive approach to finding the length of a linked list is when the function encounters a nullptr, indicating the end of the list. This is the base case of the recursion, where the function should return 0 as there are no more nodes to count.
