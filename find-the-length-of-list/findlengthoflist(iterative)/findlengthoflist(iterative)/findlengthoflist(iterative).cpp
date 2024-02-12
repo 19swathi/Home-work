@@ -12,7 +12,6 @@ Return the Length: Once the traversal is complete (i.e., you've reached the end 
 
 Here's a high-level pseudocode representation of the iterative approach to finding the length of a linked list:*/
 #include <iostream>
-
 // Define the structure for a node in the linked list
 struct Node {
     int data;

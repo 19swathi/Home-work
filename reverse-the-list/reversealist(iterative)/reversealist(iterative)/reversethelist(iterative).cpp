@@ -1,6 +1,5 @@
 /*iterative approach
 Certainly! The iterative approach to reverse a linked list involves traversing the list while modifying the pointers to reverse the direction of the links. Here's how it works:
-
 Initialize Pointers: We start by initializing three pointers: prev, current, and nextNode.
 
 prev: Pointer to the previous node, initially set to nullptr.

@@ -7,7 +7,6 @@ Recursive Step: For the recursive step, we assume that we have already reversed 
 Reversing Links: To reverse the link between the first and second nodes, we make the next node of the current head point back to the head itself. Then, we make the current head's next pointer null to break the link.
 
 Returning New Head: After reversing the link, the second node becomes the new head of the reversed list. So, we return this new head to the previous level of recursion.
-
 */
 /*The recursive approach to reverse a linked list differs from the iterative approach in its methodology and implementation. Here's a comparison between the two approaches and potential challenges associated with the recursive approach:
 
